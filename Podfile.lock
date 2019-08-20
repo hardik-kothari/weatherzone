@@ -1,0 +1,51 @@
+PODS:
+  - Alamofire (4.8.2)
+  - FBSDKCoreKit (5.4.0):
+    - FBSDKCoreKit/Basics (= 5.4.0)
+    - FBSDKCoreKit/Core (= 5.4.0)
+  - FBSDKCoreKit/Basics (5.4.0)
+  - FBSDKCoreKit/Core (5.4.0):
+    - FBSDKCoreKit/Basics
+  - FBSDKLoginKit (5.4.0):
+    - FBSDKCoreKit (~> 5.0)
+  - MBProgressHUD (1.1.0)
+  - ReachabilitySwift (4.3.1)
+  - SDWebImage (5.1.0):
+    - SDWebImage/Core (= 5.1.0)
+  - SDWebImage/Core (5.1.0)
+  - SwiftLint (0.34.0)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - FBSDKLoginKit
+  - MBProgressHUD
+  - ReachabilitySwift
+  - SDWebImage
+  - SwiftLint
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - FBSDKCoreKit
+    - FBSDKLoginKit
+    - MBProgressHUD
+    - ReachabilitySwift
+    - SDWebImage
+    - SwiftLint
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  FBSDKCoreKit: 026e56cf2c2cebc656cf2aec5c6898b8c4f33930
+  FBSDKLoginKit: f5064bb8f20c065ee1ea5987cbe0475b713edf9b
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  ReachabilitySwift: 4032e2f59586e11e3b0ebe15b167abdd587a388b
+  SDWebImage: fb387001955223213dde14bc08c8b73f371f8d8f
+  SwiftLint: 79d48a17c6565dc286c37efb8322c7b450f95c67
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: 584d3da756e489c3ee58e642f9c7dba37468686b
+
+COCOAPODS: 1.7.5
